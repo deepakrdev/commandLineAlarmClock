@@ -1,10 +1,10 @@
 # commandLineAlarmClock
 Made on node version = 14.18.2 and npm version = 8.6.0
 
-#Desc
+# Desc
 A basic command line alarm clock which will create multiple alarms and alert on each alarm. User can also delete and add the alarm.
 
-#Setup on local
+# Setup on local
 Simply pull the code, install all dependencies usning npm install. and run following commands for different tasks.
 1. node bin/index.js -n addAlarm   // add alarm
 2. node bin/index.js -n deleteAlarm  // delete alarm
