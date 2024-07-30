@@ -1,0 +1,21 @@
+{
+  "name": "alarmwithcommand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "type": "module",
+  "bin": {
+    "myAlarm": "./bin/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "inquirer-date-prompt": "^2.0.1",
+    "uuid": "^10.0.0",
+    "yargs": "13.2"
+  }
+}
